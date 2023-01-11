@@ -1,4 +1,4 @@
-function Text({ value, style }) {
+function Text({value, style}) {
   return <p className={style}>{value}</p>;
 }
 

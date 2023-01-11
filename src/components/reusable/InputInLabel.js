@@ -1,4 +1,4 @@
-function InputInLabel({ title, onChange, value=0 }) {
+function InputInLabel({title, onChange, value = 0}) {
   return (
     <label className="block my-10">
       {title}
